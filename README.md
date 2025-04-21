@@ -62,6 +62,7 @@ This project builds upon code from the [Amazon Science repository](https://githu
 - `utils.py` is reused as-is.
 - `gnn_example.py` was adapted to solve the Minimum Vertex Cover problem.
 - The `requirements.txt` is partially inherited and adjusted for this implementation.
+- Parts of this `README.md` were adapted from the original Amazon Science repository and are licensed under CC BY-SA 4.0.
 
 ## License Summary
 
