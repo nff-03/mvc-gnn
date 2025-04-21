@@ -7,7 +7,7 @@ This project adapts a physics-inspired Graph Neural Network (GNN) framework to s
 - **Original Problem:** Maximum Independent Set (MIS)
 - **Adapted Problem:** Minimum Vertex Cover (MVC)
 - **Tech Stack:** PyTorch, DGL, SHARCNET, Python
-- **Evaluation:** Regular 3- and 5-degree synthetic graphs, up to 900,000 nodes
+- **Evaluation:** Regular 3- and 5-degree synthetic graphs, up to 100,000 nodes
 - **Baselines:** ILP via CPLEX, greedy heuristics, and approximation algorithms
 
 ## Method
